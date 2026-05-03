@@ -1,3 +1,5 @@
+# Exercícios de estruturas condicionais em Python
+
 # Exercício 1: Votação
 
 idade=int(input("Digite sua idade: "))
