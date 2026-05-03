@@ -12,3 +12,5 @@ Exercícios práticos sobre estruturas condicionais em Python.
 # Como executar
 
 ```bash
+python exercicios.py
+```
