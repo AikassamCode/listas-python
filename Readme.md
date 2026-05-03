@@ -7,12 +7,13 @@ versionamento de código e organizar os exercícios desenvolvidos em aula.
 
 | Pasta | Conteúdo |
 |---|---|
-| `Lista - Condicionais` | Estruturas if, elif, else e condicionais aninhadas |
-| `Lista - Dicionários` | Criação, manipulação e métodos de dicionários |
-| `Lista - Funções` | Funções, recursividade, lambda e escopo |
-| `Lista - Listas e Vetores` | Operações com listas, ordenação e algoritmos |
-| `Lista - Listas (Fixação)` | Exercícios com análise e filtragem de listas |
-| `Lista - Matrizes` | Matrizes, transposição, multiplicação e rotação |
+| `Condicionais` | Estruturas if, elif, else e condicionais aninhadas |
+| `Dicionários` | Criação, manipulação e métodos de dicionários |
+| `Funções` | Funções, recursividade, lambda e escopo |
+| `Listas e Vetores` | Operações com listas, ordenação e algoritmos |
+| `Listas (fixação)` | Exercícios com análise e filtragem de listas |
+| `Matrizes` | Matrizes, transposição, multiplicação e rotação |
+| `Estruturas de Repetição` | Laços for e while, acumuladores, fatorial e tabuada |
 
 # Tecnologias e Ferramentas
 
@@ -28,7 +29,7 @@ versionamento de código e organizar os exercícios desenvolvidos em aula.
 
 # Autora
 
-**Samara Carvalho** — [@AikassamCode] (https://github.com/AikassamCode)
+**Samara Carvalho** — [@AikassamCode](https://github.com/AikassamCode)
 
 ---
 
